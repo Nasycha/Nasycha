@@ -1,5 +1,7 @@
-## Hi there I'm Nstya Milkhert 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there I'm Nastya Milkhert 👋
+
+##🌱 I’m currently learning Pyton, C/C++
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasycha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nasycha/Nasycha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
