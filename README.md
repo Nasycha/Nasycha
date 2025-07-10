@@ -27,7 +27,7 @@
 
 <div align="center">
   
-[![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasycha&theme=dark)]
+![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasycha&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasycha&theme=black-ice)](https://git.io/streak-stats)
 
 </div>
